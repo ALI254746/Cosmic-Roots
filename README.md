@@ -38,7 +38,7 @@ The system uses a **Graph Database (Neo4j)** to map complex kinship ties, while 
 ## 📖 Project Documentation
 
 I have published a detailed blog post on the vision and technical implementation of this project:
-👉 **[Read the full article on AWS Builder Center]([SIZNING_MAQOLA_LINKINGIZNI_SHU_YERGA_QO'YING](https://builder.aws.com/content/39FepISmhbyWZgWPff4LV9vBn6r/cosmic-roots-redefining-family-heritage-with-amazon-nova-ai))**
+👉 **[Read the full article on AWS Builder Center]((https://builder.aws.com/content/39FepISmhbyWZgWPff4LV9vBn6r/cosmic-roots-redefining-family-heritage-with-amazon-nova-ai))**
 
 ---
 
@@ -46,7 +46,7 @@ I have published a detailed blog post on the vision and technical implementation
 
 Currently, the project is in the **prototype and architectural design phase**. 
 
-1. **Clone the repo:** `git clone https://github.com/YOUR_USERNAME/Cosmic-Roots.git`
+1. **Clone the repo:** `git clone https://github.com/ALI254746/Cosmic-Roots.git`
 2. **Review the code:** Check `CosmicRoots.cs` for the core AI logic.
 3. **Check the PPT:** View the presentation for a full feature walkthrough.
 
